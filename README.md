@@ -164,7 +164,7 @@ Use `-w NAME` for another workspace; `-p` for pretty tables; `-j` for JSON.
 - First steps: <https://docs.faradaysec.com/First-Steps/>
 - Importing: <https://docs.faradaysec.com/import/>
 - Dashboard: <https://docs.faradaysec.com/Dashboard-v4/>
-- Plugin list (supported tools): <https://github.com/infobyte/faraday/wiki/Plugin-List>
+- Plugin list (supported tools): <https://docs.faradaysec.com/Plugin-List-v4/>
 - Faraday CLI: <https://docs.faraday-cli.faradaysec.com/>
 
 ---
